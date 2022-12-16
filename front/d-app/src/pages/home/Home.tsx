@@ -47,6 +47,32 @@ function Home() {
 
   }
 
+  // const call_smart_contract = async function call(){
+    
+
+  //   try {
+  //     const message = {
+  //       destination: "0x2a66d501c3d20b3b5cc52c73272ed0703517cdd0d2947116a911df8c26b8b8be", // programId
+  //       payload: "somePayload",
+  //       gasLimit: 10000000,
+  //       value: 1000,
+  //     };
+  //     // In that case payload will be encoded using meta.handle_input type
+  //     let extrinsic = GearApi.message.send(message, meta);
+  //     // So if you want to use another type you can specify it
+  //     extrinsic = GearApi.message.send(message, meta, meta.async_handle_input);
+  //   } catch (error) {
+  //     console.error(`${error.name}: ${error.message}`);
+  //   }
+  //   try {
+  //     await extrinsic.signAndSend(keyring, (event) => {
+  //       console.log(event.toHuman());
+  //     });
+  //   } catch (error) {
+  //     console.error(`${error.name}: ${error.message}`);
+  //   }
+  // }
+
   const gear = async function connect() {
     const gearApi = await GearApi.create({
       providerAddress: 'wss://node-workshop.gear.rs',
@@ -73,7 +99,6 @@ function Home() {
 
   gear()
   
-
   return (
     <>
     <h1>Escribe tu diario </h1>

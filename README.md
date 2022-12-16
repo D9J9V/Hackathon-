@@ -32,3 +32,10 @@ Create a new branch for your changes.
 Make your changes and commit them to your branch.
 Submit a pull request with a detailed description of your changes.
 
+## Smart Contracts 
+
+NFT: 0x2a66d501c3d20b3b5cc52c73272ed0703517cdd0d2947116a911df8c26b8b8be 
+
+Imagen 1 : 0xff824e429f6cc9ca040826ec7a1a40772fcb2270ac34ced51738f8564aa0068e 
+
+Imagen 2 : 0xedc00059afe0c1141fd0ce696e82a72eefa8ef3761ae079c73a457265a9f376b

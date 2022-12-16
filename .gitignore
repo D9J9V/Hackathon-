@@ -1,1 +1,6 @@
+node_modules
+
 back/keys.py
+
+block/test
+block/hello_cargo

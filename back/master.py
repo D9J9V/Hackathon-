@@ -51,9 +51,9 @@ class CREATE_IMG ():
         print(url)
         return url 
 
-def exe():
-    text = "Hoy ha sido un día genial. Ha sido mi cumpleaños y para celebrarlo he pasado todo el día con mi familia y mis amigos. Por la mañana, me he levantado temprano para desayunar con mis padres y mi hermana Lola y me han preparado mi desayuno favorito: tortitas con fruta y chocolate. Después, hemos ido juntos al museo de las artes y las ciencias. Ha sido divertido. A la hora del almuerzo, hemos ido a mi restaurante favorito y ¡sorpresa! Todos mis amigos estaban allí. Me ha hecho muy feliz ver a toda la gente que quiero en el restaurante. Por la tarde, mis padres se han ido a casa y mis amigos, mi hermana y yo hemos ido al cine. Después, hemos ido todos a mi casa y nos hemos bañado en la piscina. Hemos pedido pizzas y hemos cenado en el jardín. A las once y media mis amigos se han tenido que ir y yo me he puesto a escribir un rato, pero ahora tengo sueño y voy a la cama también. Mañana te cuento más cosas."
-    example = CREATE_IMG(text)
-    example.generacionIMG()
+# def exe():
+#     text = "Hoy ha sido un día genial. Ha sido mi cumpleaños y para celebrarlo he pasado todo el día con mi familia y mis amigos. Por la mañana, me he levantado temprano para desayunar con mis padres y mi hermana Lola y me han preparado mi desayuno favorito: tortitas con fruta y chocolate. Después, hemos ido juntos al museo de las artes y las ciencias. Ha sido divertido. A la hora del almuerzo, hemos ido a mi restaurante favorito y ¡sorpresa! Todos mis amigos estaban allí. Me ha hecho muy feliz ver a toda la gente que quiero en el restaurante. Por la tarde, mis padres se han ido a casa y mis amigos, mi hermana y yo hemos ido al cine. Después, hemos ido todos a mi casa y nos hemos bañado en la piscina. Hemos pedido pizzas y hemos cenado en el jardín. A las once y media mis amigos se han tenido que ir y yo me he puesto a escribir un rato, pero ahora tengo sueño y voy a la cama también. Mañana te cuento más cosas."
+#     example = CREATE_IMG(text)
+#     example.generacionIMG()
 
-exe()
+# exe()
