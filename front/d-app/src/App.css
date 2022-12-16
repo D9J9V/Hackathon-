@@ -1,0 +1,24 @@
+#root {
+  background: purple;
+  color: aliceblue;
+  max-width: 1200px;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 0 16px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: content-box;
+}
+
+main {
+  background: purple;
+  color: aliceblue;
+  flex: 1;
+  padding: 30px 0 60px;
+  position: relative;
+}
+
+body {
+  color: aliceblue;
+  background: purple;
+}
