@@ -1,5 +1,5 @@
 #root {
-  background: purple;
+  background: gray;
   color: aliceblue;
   max-width: 1200px;
   min-height: 100vh;
@@ -11,7 +11,7 @@
 }
 
 main {
-  background: purple;
+  background: gray;
   color: aliceblue;
   flex: 1;
   padding: 30px 0 60px;
@@ -20,5 +20,5 @@ main {
 
 body {
   color: aliceblue;
-  background: purple;
+  background: gray;
 }
